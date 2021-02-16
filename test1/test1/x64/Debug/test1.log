@@ -1,0 +1,5 @@
+﻿  test1.cpp
+e:\lab oop\test1\test1\test1.cpp(68): error C2259: 'Shape': cannot instantiate abstract class
+  e:\lab oop\test1\test1\test1.cpp(68): note: due to following members:
+  e:\lab oop\test1\test1\test1.cpp(68): note: 'void Shape::accept(std::shared_ptr<Visitor>)': is abstract
+  e:\lab oop\test1\test1\test1.cpp(29): note: see declaration of 'Shape::accept'

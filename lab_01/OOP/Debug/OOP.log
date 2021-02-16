@@ -1,0 +1,36 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (OOP.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+cl : command line warning D9035: option 'clr:pure' has been deprecated and will be removed in a future release
+  stdafx.cpp
+cl : command line warning D9035: option 'clr:pure' has been deprecated and will be removed in a future release
+  AssemblyInfo.cpp
+E:\Lab OOP\lab_01\OOP\AssemblyInfo.cpp(40,29): warning C4947: 'System::Security::Permissions::SecurityAction::RequestMinimum': marked as obsolete
+E:\Lab OOP\lab_01\OOP\AssemblyInfo.cpp(40,29): message : Message: 'Assembly level declarative security is obsolete and is no longer enforced by the CLR by default. See http://go.microsoft.com/fwlink/?LinkID=155570 for more information.'
+  FigureModif.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\include\yvals.h(230): warning STL4001: /clr:pure is deprecated and will be REMOVED.
+  FigureDelete.cpp
+  FigureDraw.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\include\yvals.h(230): warning STL4001: /clr:pure is deprecated and will be REMOVED.
+  FigureLoadFile.cpp
+E:\Lab OOP\lab_01\OOP\FigureLoadFile.cpp(14,6): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Lab OOP\lab_01\OOP\FigureLoadFile.cpp(56,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  DrawInit.cpp
+  IntArray.cpp
+E:\Lab OOP\lab_01\OOP\IntArray.cpp(21,7): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Lab01_OOP.cpp
+  Matrix.cpp
+  ModifInit.cpp
+  PointArr.cpp
+E:\Lab OOP\lab_01\OOP\PointArr.cpp(7,6): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  PointInit.cpp
+  PointModif.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\include\yvals.h(230): warning STL4001: /clr:pure is deprecated and will be REMOVED.
+E:\Lab OOP\lab_01\OOP\PointModif.cpp(68,14): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\Lab OOP\lab_01\OOP\PointModif.cpp(69,14): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  FigureInit.cpp
+  form_event.cpp
+  Generating Code...
+cl : command line warning D9035: option 'clr:pure' has been deprecated and will be removed in a future release
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  AssemblyInfo.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+LINK : fatal error LNK1104: cannot open file 'MSVCURTD.LIB'

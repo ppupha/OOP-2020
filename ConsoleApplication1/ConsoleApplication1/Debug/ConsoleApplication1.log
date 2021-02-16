@@ -1,0 +1,11 @@
+﻿  ConsoleApplication1.cpp
+e:\lab oop\consoleapplication1\consoleapplication1\consoleapplication1.cpp(33): error C2065: 'string': undeclared identifier
+e:\lab oop\consoleapplication1\consoleapplication1\consoleapplication1.cpp(33): error C2146: syntax error: missing ')' before identifier 'file'
+e:\lab oop\consoleapplication1\consoleapplication1\consoleapplication1.cpp(33): error C2143: syntax error: missing ';' before '{'
+e:\lab oop\consoleapplication1\consoleapplication1\consoleapplication1.cpp(33): error C2447: '{': missing function header (old-style formal list?)
+e:\lab oop\consoleapplication1\consoleapplication1\consoleapplication1.cpp(79): error C2065: 'cout': undeclared identifier
+e:\lab oop\consoleapplication1\consoleapplication1\consoleapplication1.cpp(81): error C2065: 'cout': undeclared identifier
+e:\lab oop\consoleapplication1\consoleapplication1\consoleapplication1.cpp(89): error C3861: 'matrix_reader': identifier not found
+e:\lab oop\consoleapplication1\consoleapplication1\consoleapplication1.cpp(94): error C2065: 'cout': undeclared identifier
+e:\lab oop\consoleapplication1\consoleapplication1\consoleapplication1.cpp(97): error C2065: 'cout': undeclared identifier
+e:\lab oop\consoleapplication1\consoleapplication1\consoleapplication1.cpp(101): error C2065: 'cout': undeclared identifier

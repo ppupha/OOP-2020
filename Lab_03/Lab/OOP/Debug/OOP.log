@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (OOP.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+cl : command line warning D9035: option 'clr:pure' has been deprecated and will be removed in a future release
+  Lab01_OOP.cpp
+  AssemblyInfo.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+LINK : fatal error LNK1104: cannot open file 'MSVCURTD.LIB'
